@@ -14,7 +14,7 @@ Copy the executable to your /usr/bin/.
 
 ### Installing
 
- * [ ]
+ * [ ] ci
 
 ```
 pip install tase
@@ -22,6 +22,4 @@ pip install tase
 
 ## Getting Started
 
- * [x] Foo
- * [x] Bar
- * [ ] Baz
+ * [ ] example
