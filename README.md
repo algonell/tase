@@ -9,11 +9,7 @@ Python utilities to scrape historical price data from [TASE](https://www.tase.co
 
 ### Installing
 
- * [ ] ci
-
-```
-pip install tase
-```
+ * [ ] ci ``` pip install tase ```
 
 ## Getting Started
 
