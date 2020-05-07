@@ -22,4 +22,6 @@ pip install tase
 
 ## Getting Started
 
- * [ ]
+ * [x] Foo
+ * [x] Bar
+ * [ ] Baz
