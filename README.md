@@ -3,8 +3,9 @@ Python utilities to scrape historical price data from [TASE](https://www.tase.co
 
 ### Prerequisites
 
-[Selenium](https://www.selenium.dev/) ``` pip install selenium ```
-[ChromeDriver]
+[Selenium](https://www.selenium.dev/) 
+``` pip install selenium ```
+[ChromeDriver](https://chromedriver.chromium.org/)
 
 ### Installing
 
