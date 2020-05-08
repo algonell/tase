@@ -1,0 +1,23 @@
+#symbol to tick
+symbols = {
+    #TA-35
+    'HRL.TA-35' : 1, #Harel Sal (4A) TA 35
+    'KSM.TA-35' : 10, #KSM ETF (4A) TA-35
+    'MTF.TA-35' : 1, #MTF SAL (4A) TA-35
+    'PSG.TA-35' : 1, #Psagot ETF (4A) TA-35
+    'TC.TA35' : 1, #Tachlit SAL (40) TA 35
+    
+    #TA-125
+    'TC.TA125' : 1, #Tachlit SAL (40) TA 125
+    'KSM.TA-125' : 10, #KSM ETF (4A) TA-125
+    'PSG.TA-125' : 1, #Psagot ETF (4A) TA-125
+    'HRL.TA-125' : 1, #Harel Sal (4A) TA 125M
+    'MTF.TA-125' : 1, #MTF SAL (4A) TA-125
+    
+    #stocks
+    'TEVA' : 1,
+    'NICE' : 10,
+    'ICL' : 1,
+    'ESLT' : 10,
+    'PRGO' : 10
+}
