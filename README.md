@@ -7,6 +7,14 @@ Python utilities to scrape historical price data from [TASE](https://www.tase.co
 
 [ChromeDriver](https://chromedriver.chromium.org/) -> copy to /usr/bin
 
-## Getting Started
+## Stocks
 
- * [ ] example
+![Stocks](/Pics/Stocks.png)
+
+## ETF
+
+![ETF](/Pics/ETF.png)
+
+## Sample
+
+![Plot](/Pics/Plot.png)
