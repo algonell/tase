@@ -7,10 +7,6 @@ Python utilities to scrape historical price data from [TASE](https://www.tase.co
 
 [ChromeDriver](https://chromedriver.chromium.org/) -> copy to /usr/bin
 
-### Installing
-
- * [ ] ci ``` pip install tase ```
-
 ## Getting Started
 
  * [ ] example
