@@ -1,4 +1,4 @@
-# Tel Aviv Stock Exchange Data Scrapper
+# Tel Aviv Stock Exchange (TASE) Data Scrapper
 Python utilities to scrape historical price data from [TASE](https://www.tase.co.il/).
 In addition, financial data of the TA-35 companies can be scraped to calculate the PE ratio of the index.
 
